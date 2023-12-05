@@ -1,0 +1,412 @@
+<!-- /*
+* Template Name: Minimal
+* Template Author: Untree.co
+* Author URI: https://untree.co/
+* License: https://creativecommons.org/licenses/by/3.0/
+*/ -->
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Untree.co">
+  <link rel="shortcut icon" href="favicon.png">
+
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=PT+Mono&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+  <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+  <link rel="stylesheet" href="css/aos.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <title>Various Projects Portfolio</title>
+</head>
+
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="100">
+
+  <div class="lines-wrap">
+    <div class="lines-inner">
+      <div class="lines"></div>
+    </div>
+  </div>
+  <!-- END lines -->
+
+  <div class="site-mobile-menu site-navbar-target">
+    <div class="site-mobile-menu-header">
+      <div class="site-mobile-menu-close">
+        <span class="icofont-close js-menu-toggle"></span>
+      </div>
+    </div>
+    <div class="site-mobile-menu-body"></div>
+  </div>
+
+  <nav class="site-nav dark mb-5 site-navbar-target">
+    <div class="container">
+      <div class="site-navigation">
+        <a id="logo-container" href="index.html" class="logo m-0">OneSidesOne Soniclabor<span class="text-primary">.</span></a>
+        <div class="logo-bg-shape"></div>
+        <ul class="js-clone-nav d-none d-lg-inline-none site-menu float-right site-nav-wrap" style=>
+          <li><a href="#home-section" class="nav-link active">Home</a></li>
+          <li><a href="#portfolio-section" class="nav-link">Music and Art PORTFOLIO</a></li>
+          <li class="has-children">
+            <a href="#about-section" class="nav-link">About</a>
+            <ul class="dropdown">
+              <!--<li><a href="elements.html" class="nav-link">Music Demos</a></li>-->
+              <li class="has-children">
+                <a href="#">Demos</a>
+                <ul class="dropdown">
+                  <li><a href="https://binauralsubliminal.com/album_02/player/index.html" class="nav-link">Four-Track EP</a></li>
+                  <li><a href="https://binauralsubliminal.com/album_msp/index.html" class="nav-link">The Process Album</a></li>
+                  <li><a href="https://binauralsubliminal.com/album_01/player/index.html" class="nav-link">Second Demo Concept</a></li>
+                  <li><a href="https://binauralsubliminal.com/album_00/player/index.html" class="nav-link">First Demo Concept</a></li>
+                </ul>
+              </li>
+              <!-- <li><a href="#" class="nav-link">Menu Three</a></li>-->
+            </ul>
+          </li>
+
+        </ul>
+
+        <a href="#" class="burger ml-auto float-right site-menu-toggle js-menu-toggle d-inline-block d-lg-inline-block" data-toggle="collapse" data-target="#main-navbar">
+          <span></span>
+        </a>
+
+      </div>
+    </div>
+  </nav>
+
+
+
+  <div class="untree_co-section pb-0" id="home-section">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-md-7">
+          <h1 class="heading gsap-reveal-hero mb-3 glowing-header" style="font-family: 'Stacker'; font-size: 1.3rem;"><strong>SONICLABOR<span class="text-primary">.</span> Demos and Portfolio</strong></h1>
+          <h2 class="subheading gsap-reveal-hero mb-4" style="font-family: 'Radiospace';">
+            Various music by <strong>Binaural SUB</strong>. A simple version of the RSS demo albums can be found <a href="https://binauralsubliminal.my.canva.site" target="_blank">here</a>
+          </h2>
+          <!-- <p class="gsap-reveal-hero"><a href="https://untree.co/" target="_blank" class="btn btn-outline-black">More free templates here</a></p> -->
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div class="untree_co-section untree_co-section-4 pb-0" id="portfolio-section">
+    <div class="container">
+
+
+      <div class="relative">
+        <div class="loader-portfolio-wrap">
+          <div class="loader-portfolio"></div>
+        </div>
+      </div>
+      <div id="portfolio-single-holder"></div>
+
+      <div class="portfolio-wrapper">
+
+        <div id="posts" class="row">
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-1.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="1" target="_self">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Frequency Hypnosis RSS demo</h3>
+                  <p>1st RSS album concept</p>
+                </div>
+              </div>
+              <img src="images/freq_hypnosis.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-2.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="2">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>The Process RSS</h3>
+                  <p>Standalone & Wavlake</p>
+                </div>
+              </div>
+              <img src="images/process_cover.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-3.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>FOUR TRACK EP</h3>
+                  <p>value for value release</p>
+                </div>
+              </div>
+              <img src="images/four-track-cover.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+          <!--
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-3.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Podcast index</h3>
+                  <p>RSS feed example</p>
+                </div>
+              </div>
+              <img src="images/owl_logo.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+-->
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="merchandise.html" class="portfolio-item isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Merchandise</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/tote-black.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="merchandise.html" class="portfolio-item isotope-item gsap-reveal-img" data-id="1">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Merchandise</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/tote-black-symbols.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="merchandise.html" class="portfolio-item isotope-item gsap-reveal-img" data-id="2">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Merchandise</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/one-beanie-black.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+          <!--
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-3.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Old Typewriter</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/two-beanie-black.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-3.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Walking Man</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/staple-t-shirt.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+-->
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="https://www.wavlake.com/album/1e1427f6-2ac2-498b-9e71-1788b131c430" class="portfolio-item  isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Earth Recycled</h3>
+                  <p>Wavlake Single</p>
+                </div>
+              </div>
+              <img src="images/heavens_gate.jpg" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="https://youtube.com/playlist?list=PLGuGa8SJRe0159zO5dSkFDGCaiRHaMEtq&si=rrGEZ31hD43-lI4m" class="portfolio-item isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>YouTube Channel</h3>
+                  <p>Audio/Video Project</p>
+                </div>
+              </div>
+              <img src="images/sonic_logo.jpg" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+          <!--
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-3.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Beautiful Woman</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/artwork_00.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+
+          <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
+            <a href="portfolio-single-3.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="3">
+              <div class="overlay">
+                <span class="wrap-icon icon-link2"></span>
+                <div class="portfolio-item-content">
+                  <h3>Book Binding</h3>
+                  <p>web, branding</p>
+                </div>
+              </div>
+              <img src="images/hand_drawn_00.png" class="lazyload  img-fluid" alt="Images" />
+            </a>
+          </div>
+-->
+
+        </div>
+      </div>
+
+
+      <!-- </div>
+        </div> -->
+    </div>
+  </div>
+
+
+  <div class="untree_co-section pb-0" id="about-section">
+    <div class="container" style="border-radius: 24px;">
+      <div class="row justify-content-center mb-3">
+        <div class="col-lg-7 mx-auto text-center author-wrap">
+          <img src="images/my_person.png" alt="Image" class="img-fluid rounded-circle mb-3 glowing-header" style="width: 150px; heights: 150px;">
+          <h3 class="text-black h5 font-weight-bold mb-2 gsap-reveal-hero">TREVVV</h3>
+          <p class="gsap-reveal-hero">Musician and Digital Artist</p>
+        </div>
+      </div>
+
+      <div class="row justify-content-center">
+        <div class="col-lg-7">
+
+
+          <p class="gsap-reveal-hero">OneSidesOneSonicLabor: Video project creating visual art for original music and other artists.</p>
+          <p class="gsap-reveal-hero">Silcon Avatar: DJ sets, Acidtrance, Goatrance and psychedelic techno project.</p>
+          <p class="gsap-reveal-hero">ShivaCult: Psychedelic Trance and electronic music project.</p>
+          <p class="gsap-reveal-hero">Binaural Sub: Psychedelic TripHop style beats, 303's, guitars and rhymes by various vocalists.</p>
+          <p class="gsap-reveal-hero mb-5">InVisual: Digital Art, Video and handdrawn scan edits</a>
+
+            <!--<p class="gsap-reveal-hero text-center"><a href="https://untree.co/" target="_blank" class="btn btn-outline-black"></a></p>-->
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="site-footer">
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-lg-3">
+          <div class="widget">
+            <h3>Contact</h3>
+              <!--<address>43 Raymouth Rd. Baltemoer, London 3910</address>-->
+              <ul class="list-unstyled links mb-4">
+                <!--<li><a href="tel://11234567890">+1(123)-456-7890</a></li>
+                <li><a href="tel://11234567890">+1(123)-456-7890</a></li>-->
+                <li><a href="mailto:binaural_sub303@protonmail.com">e-mail</a></li>
+              </ul>
+-->
+            <h3>Connect</h3>
+            <ul class="list-unstyled social">
+              <li><a href="https://github.com/silconsystem"><span class="icon-github"></span></a></li>
+              <li><a href="https://www.instagram.com/electroordonanz/"><span class="icon-instagram"></span></a></li>
+              <li><a href="https://twitter.com/OSoniclabor"><span class="icon-twitter"></span></a></li>
+              <li><a href="https://nl.pinterest.com/SiliconStyles/"><span class="icon-pinterest"></span></a></li>
+              <li><a href="https://binauralsubliminal.com"><span class="icon-dribbble"></span></a></li>
+            </ul>
+
+          </div> <!-- /.widget -->
+        </div> <!-- /.col-lg-3 -->
+      </div> <!-- /.row -->
+
+      <div class="row mt-5">
+        <div class="col-12 text-center" style="font-family: 'Radiospace';font-size: 13px;">
+          <!-- 
+              **==========
+              NOTE: 
+              Please don't remove this copyright link unless you buy the license here https://untree.co/license/  
+
+              **==========
+            -->
+          <p class="mb-0">Copyright &copy;<script>
+              document.write(new Date().getFullYear());
+            </script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co" style="color: white;">Untree.co</a> Distributed By <a href="https://themewagon.com" style="color: white;">ThemeWagon</a> <!-- License information: https://untree.co/license/ -->
+          </p>
+          <div class="mb-0 eye-bg">
+            <span class="date93"></span>
+          </div>
+        </div>
+      </div>
+    </div> <!-- /.container -->
+  </div> <!-- /.site-footer -->
+
+  <div id="overlayer" style="position: absolute; left: 50%; margin-left: -25%;"></div>
+  <div class="loader" style="width: 50%; height: 50%;">
+    <div class="spinner-border arrow-sh" role="status" style="border-width: 30px; width: 300px; height: 300px;">
+      <span class="sr-only">Loading...</span>
+    </div>
+  </div>
+
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/wave-animate.js"></script>
+  <script src="js/circle-progress.js"></script>
+  <script src="js/imagesloaded.pkgd.js"></script>
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/TweenMax.min.js"></script>
+  <script src="js/ScrollMagic.min.js"></script>
+  <script src="js/scrollmagic.animation.gsap.min.js"></script>
+
+
+  <script src="js/custom.js"></script>
+  <script src="js/main.js"></script>
+
+  <script src="https://eralegis.info/eralegis-3.0.js"></script>
+
+</body>
+
+</html>

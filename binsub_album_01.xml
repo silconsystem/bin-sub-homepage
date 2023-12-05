@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Binaural Sub</title>
+    <description>This is an RSS feed album using podcasting 2.0 tech.
+                  I created an old-fashioned EP, 5 tracks and 1 bonus track. 
+                  This could be a great way to share music and add all kinds of features,
+                  an album or single can have all kinds of extra content for the listeners to enjoy and
+                  connect them directly to gigs, merchandise, social media platforms and donations.
+                  I envision albums and singles shared by a link to a creative space that hosts the music, and more...
+                  But can also be read by any podcast 2.0 app.
+                  </description>
+    <link>https://binauralsubliminal.my.canva.site/</link>
+    <language>en-US</language>
+    <generator>Freedom Controller</generator>
+    <pubDate>Fri, 09 Oct 2020 04:30:38 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2020 04:30:38 GMT</lastBuildDate>
+    <managingEditor>binaural_sub303@protonmail.com (Binaural Sub)</managingEditor>
+    <webMaster>binaural_sub303@protonmail.com (Binaural Sub)</webMaster>
+    
+    <!-- IMAGE -->
+    
+    <!-- frequency hypnosis --> 
+    <image>
+      <url>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/frequency.png</url>
+      <title>Frequency Hypnosis</title>
+      <link>https://youtu.be/F0WukSG3Yow?si=bCO58hwqK49FcCrJ</link>
+    </image>
+    <!-- future step -->
+    <image>
+      <url>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/soniclogo.png</url>
+      <title>Future Step Thinking Things</title>
+      <link>https://youtu.be/KgDLXJwh4O0?si=-TGKBGpirxnQRW2N</link>
+    </image>
+    <!-- reminiscent -->
+    <image>
+      <url>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/reminiscent.png</url>
+      <title>Reminiscent</title>
+      <link>https://youtu.be/F0WukSG3Yow?si=5CBnYHF2sWCY4GB9</link>
+    </image>
+    <!-- 5i9iLZ 101 -->
+    <image>
+      <url>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/new101.png</url>
+      <title>5i9iLZ 101</title>
+      <link>https://youtu.be/wQmZ8tyg4g0?si=soX0P61-gjDL558A</link>
+    </image>
+    <!-- Old News -->
+    <image>
+      <url>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/news.png</url>
+      <title>Old News New Masters</title>
+      <link>https://youtu.be/Owp4mItKJKI?si=WIiG41g8t0Msn9wn</link>
+    </image>
+    <!-- Artistic Tendencies -->
+    <image>
+      <url>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/artistic.png</url>
+      <title>Artistic Tendencies</title>
+      <link>https://youtu.be/nY2Kf0nHz1U?si=qf3CdiLFmizrvs3q</link>
+    </image>    
+    <!-- ITEM -->
+    
+    <!-- frequency hypnosis -->
+    <item>
+      <title>Frequency Hypnosis</title>
+      <description>video: https://youtu.be/F0WukSG3Yow?si=5CBnYHF2sWCY4GB9</description>
+      <enclosure url="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/Frequency_Hypnosis.mp3" length="00000427" type="audio/mpeg" />
+      <pubDate>Wed, 27 Sep 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/frequency.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>3BGfk2AmDeLwvRAqcYTZ9FTuKpguQP71dx</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>
+    <!-- future step -->
+    <item>
+      <title>Future Step Thinking Things</title>
+      <description>https://youtu.be/F0WukSG3Yow?si=5CBnYHF2sWCY4GB9</description>
+      <enclosure url="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/Future_Step_Thinking_Things.mp3" length="00000227" type="audio/mpeg" />
+      <pubDate>Wed, 27 Sep 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/soniclogo.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>3BGfk2AmDeLwvRAqcYTZ9FTuKpguQP71dx</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>
+    <!-- reminiscent -->
+    <item>
+      <title>Reminiscent</title>
+      <description>video: https://youtu.be/RtYCpKVBFAU?si=Z7ByGwA5t0VQTGsU</description>
+      <enclosure url="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/reminiscent.mp3" length="00000458" type="audio/mpeg" />
+      <pubDate>Wed, 27 Sep 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/reminiscent.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>3BGfk2AmDeLwvRAqcYTZ9FTuKpguQP71dx</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>
+    <!-- 5i9iLZ 101 -->
+    <item>
+      <title>5i9iLZ 101</title>
+      <description>video: https://youtu.be/wQmZ8tyg4g0?si=soX0P61-gjDL558A</description>
+      <enclosure url="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/5i9iLZ-101.mp3" length="00000402" type="audio/mpeg" />
+      <pubDate>Wed, 27 Sep 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/new101.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>3BGfk2AmDeLwvRAqcYTZ9FTuKpguQP71dx</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>
+    <!-- Old News -->
+    <item>
+      <title>Old News New Masters</title>
+      <description>video: https://youtu.be/wQmZ8tyg4g0?si=CU11tUG6qqP8slfn</description>
+      <enclosure url="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/New_Masters.wav" length="00000333" type="audio/mpeg" />
+      <pubDate>Wed, 27 Sep 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/new101.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>3BGfk2AmDeLwvRAqcYTZ9FTuKpguQP71dx</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>    
+    <!-- Artists Tendencies-->
+    <item>
+      <title>Artists Tendencies</title>
+      <description>video: https://youtu.be/nY2Kf0nHz1U?si=qf3CdiLFmizrvs3q</description>
+      <enclosure url="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/Artistic_Tendencies.mp3" length="00000438" type="audio/mpeg" />
+      <pubDate>Wed, 27 Sep 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/artistic.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>3BGfk2AmDeLwvRAqcYTZ9FTuKpguQP71dx</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>        
+    
+  </channel>
+</rss>
