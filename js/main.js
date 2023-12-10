@@ -8,7 +8,8 @@
       'https://binauralsubliminal.com/album_02/player/index.html',
       'https://binauralsubliminal.com/album_msp/index.html',
       'https://binauralsubliminal.com/album_01/player/index.html',
-      'https://binauralsubliminal.com/album_00/player/index.html'
+      'https://binauralsubliminal.com/album_00/player/index.html',
+      'https://binauralsubliminal.com/mixes/index.html'
     ];
 
   function getLink(index) {
@@ -46,6 +47,9 @@
         break;
       case 9:
         window.location.href = linkArray[9];
+        break;
+      case 10:
+        window.location.href = linkArray[10];
         break;
     }
   }
