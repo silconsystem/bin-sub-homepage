@@ -51,6 +51,8 @@
   <link rel="stylesheet" href="css/aos.css">
   <link rel="stylesheet" href="css/style.css">
   
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  
   <!--<link rel="stylesheet" href="css/custom.css">
 
   <style>
@@ -341,7 +343,9 @@
           <h5>Contact us for an order:</h5>
 
           <form class="form-container" action="https://binauralsubliminal.com/email-handler.php" method="post">
-
+            
+            <!-- Add reCAPTCHA widget -->
+            <div class="g-recaptcha" data-sitekey="6Lc4yjMpAAAAALWHh6F9cb7TXjZpXFcolP10lH-Z"></div>
             <textarea class="form-style" id="message" name="message" placeholder="place order or comment..." required></textarea>
             <label for="message">Message:</label>
             <br><br>
